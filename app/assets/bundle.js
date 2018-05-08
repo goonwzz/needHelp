@@ -74,20 +74,15 @@ var _index = _interopRequireDefault(__webpack_require__(1));
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-function fun() {
-  var b = 3;
-  console.log(_index.default);
-  console.log(b);
-}
-
-fun();
+var info = 3;
+var abs = _index.default;
 
 /***/ }),
 /* 1 */
 /***/ (function(module, exports) {
 
-let a = 2;
-module.exports.A = a;
+let absPath = 11;
+module.exports.path = absPath;
 
 /***/ })
 /******/ ]);

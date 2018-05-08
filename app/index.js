@@ -1,8 +1,8 @@
-import A from "./../util/index.js"
+import path from "./../util/index.js"
 
 
-function fun() {
-	let b=3;
-	console.log(A)
-	console.log(b)
-}
+
+	let info=3;
+
+	let abs=path
+

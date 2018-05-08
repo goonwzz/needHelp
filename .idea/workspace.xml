@@ -1,7 +1,241 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ae392de-fce7-4c59-95a3-648b1dd3a2bb" name="Default" comment="" />
+    <list default="true" id="6ae392de-fce7-4c59-95a3-648b1dd3a2bb" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/app/assets/bundle.js" afterPath="$PROJECT_DIR$/app/assets/bundle.js" />
+      <change beforePath="$PROJECT_DIR$/app/index.js" afterPath="$PROJECT_DIR$/app/index.js" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.0.0.8@minimist/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.0.0.8@minimist/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.0.1.1@is-extendable/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.0.1.1@is-extendable/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.0.1.1@is-posix-bracket/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.0.1.1@is-posix-bracket/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.0.1.3@is-equal-shallow/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.0.1.3@is-equal-shallow/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.0.1.5@expand-brackets/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.0.1.5@expand-brackets/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.0.1.5@for-own/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.0.1.5@for-own/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.0.1.8@private/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.0.1.8@private/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.0.12.3@regenerator-transform/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.0.12.3@regenerator-transform/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.0.2.0@preserve/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.0.2.0@preserve/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.0.2.1@array-unique/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.0.2.1@array-unique/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.0.2.1@regjsparser/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.0.2.1@regjsparser/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.0.3.0@glob-base/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.0.3.0@glob-base/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.0.3.0@regjsgen/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.0.3.0@regjsgen/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.0.3.2@extglob/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.0.3.2@extglob/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.0.4.4@regex-cache/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.0.4.4@regex-cache/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.0.5.0@jsesc/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.0.5.0@jsesc/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.0.5.1@json5/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.0.5.1@json5/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.0.5.1@mkdirp/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.0.5.1@mkdirp/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.0.5.7@source-map/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.0.5.7@source-map/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.1.0.0@find-cache-dir/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.1.0.0@find-cache-dir/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.1.0.0@is-extglob/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.1.0.0@is-extglob/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.1.0.0@isarray/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.1.0.0@isarray/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.1.0.0@p-try/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.1.0.0@p-try/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.1.0.1@commondir/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.1.0.1@commondir/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.1.0.1@trim-right/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.1.0.1@trim-right/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.1.0.1@unicode-match-property-value-ecmascript/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.1.0.1@unicode-match-property-value-ecmascript/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.1.0.2@for-in/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.1.0.2@for-in/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.1.0.30000835@caniuse-lite/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.1.0.30000835@caniuse-lite/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.1.0.3@is-dotfile/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.1.0.3@is-dotfile/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.1.0.3@unicode-canonical-property-names-ecmascript/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.1.0.3@unicode-canonical-property-names-ecmascript/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.1.0.3@unicode-match-property-ecmascript/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.1.0.3@unicode-match-property-ecmascript/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.1.0.3@unicode-property-aliases-ecmascript/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.1.0.3@unicode-property-aliases-ecmascript/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.1.0.5@escape-string-regexp/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.1.0.5@escape-string-regexp/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.1.0.5@path-parse/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.1.0.5@path-parse/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.1.1.0@arr-flatten/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.1.1.0@arr-flatten/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.1.1.0@loader-utils/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.1.1.0@loader-utils/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.1.1.0@remove-trailing-separator/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.1.1.0@remove-trailing-separator/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.1.1.2@repeat-element/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.1.1.2@repeat-element/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.1.1.3@color-name/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.1.1.3@color-name/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.1.1.6@is-buffer/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.1.1.6@is-buffer/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.1.1.7@randomatic/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.1.1.7@randomatic/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.1.2.0@make-dir/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.1.2.0@make-dir/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.1.2.0@p-limit/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.1.2.0@p-limit/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.1.3.1@loose-envify/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.1.3.1@loose-envify/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.1.3.3@regenerate/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.1.3.3@regenerate/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.1.3.45@electron-to-chromium/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.1.3.45@electron-to-chromium/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.1.5.1@convert-source-map/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.1.5.1@convert-source-map/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.1.6.1@repeat-string/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.1.6.1@repeat-string/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.1.7.1@resolve/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.1.7.1@resolve/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.1.8.2@expand-range/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.1.8.2@expand-range/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.1.8.5@braces/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.1.8.5@braces/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.1.9.1@color-convert/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.1.9.1@color-convert/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.11.5.0@globals/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.11.5.0@globals/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.2.0.0@arr-diff/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.2.0.0@arr-diff/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.2.0.0@glob-parent/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.2.0.0@glob-parent/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.2.0.0@is-primitive/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.2.0.0@is-primitive/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.2.0.0@locate-path/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.2.0.0@locate-path/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.2.0.0@ms/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.2.0.0@ms/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.2.0.0@p-locate/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.2.0.0@p-locate/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.2.0.0@pkg-dir/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.2.0.0@pkg-dir/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.2.0.0@to-fast-properties/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.2.0.0@to-fast-properties/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.2.0.1@filename-regex/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.2.0.1@filename-regex/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.2.0.1@is-glob/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.2.0.1@is-glob/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.2.0.1@object.omit/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.2.0.1@object.omit/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.2.0.2@esutils/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.2.0.2@esutils/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.2.1.0@emojis-list/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.2.1.0@emojis-list/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.2.1.0@find-up/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.2.1.0@find-up/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.2.1.0@is-number/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.2.1.0@is-number/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.2.1.0@isobject/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.2.1.0@isobject/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.2.1.1@normalize-path/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.2.1.1@normalize-path/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.2.2.3@fill-range/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.2.2.3@fill-range/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.2.2.4@invariant/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.2.2.4@invariant/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.2.3.11@micromatch/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.2.3.11@micromatch/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.2.4.1@chalk/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.2.4.1@chalk/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.2.5.1@jsesc/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.2.5.1@jsesc/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.3.0.0@has-flag/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.3.0.0@has-flag/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.3.0.0@is-number/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.3.0.0@is-number/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.3.0.0@path-exists/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.3.0.0@path-exists/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.3.0.0@pify/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.3.0.0@pify/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.3.0.2@js-tokens/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.3.0.2@js-tokens/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.3.0.4@parse-glob/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.3.0.4@parse-glob/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.3.1.0@debug/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.3.1.0@debug/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.3.2.0@big.js/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.3.2.0@big.js/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.3.2.1@ansi-styles/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.3.2.1@ansi-styles/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.3.2.2@kind-of/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.3.2.2@kind-of/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.3.2.6@browserslist/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.3.2.6@browserslist/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.4.0.0@kind-of/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.4.0.0@kind-of/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.4.1.3@regexpu-core/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.4.1.3@regexpu-core/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.4.17.10@lodash/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.4.17.10@lodash/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.5.1.3@regenerate-unicode-properties/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.5.1.3@regenerate-unicode-properties/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.5.4.0@supports-color/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.5.4.0@supports-color/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.5.5.0@semver/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.5.5.0@semver/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/code-frame/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/code-frame/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/core/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/core/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/generator/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/generator/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/helper-annotate-as-pure/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/helper-annotate-as-pure/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/helper-builder-binary-assignment-operator-visitor/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/helper-builder-binary-assignment-operator-visitor/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/helper-builder-react-jsx/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/helper-builder-react-jsx/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/helper-call-delegate/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/helper-call-delegate/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/helper-define-map/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/helper-define-map/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/helper-explode-assignable-expression/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/helper-explode-assignable-expression/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/helper-function-name/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/helper-function-name/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/helper-get-function-arity/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/helper-get-function-arity/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/helper-hoist-variables/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/helper-hoist-variables/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/helper-member-expression-to-functions/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/helper-member-expression-to-functions/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/helper-module-imports/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/helper-module-imports/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/helper-module-transforms/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/helper-module-transforms/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/helper-optimise-call-expression/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/helper-optimise-call-expression/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/helper-plugin-utils/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/helper-plugin-utils/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/helper-regex/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/helper-regex/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/helper-remap-async-to-generator/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/helper-remap-async-to-generator/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/helper-replace-supers/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/helper-replace-supers/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/helper-simple-access/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/helper-simple-access/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/helper-split-export-declaration/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/helper-split-export-declaration/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/helper-wrap-function/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/helper-wrap-function/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/helpers/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/helpers/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/highlight/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/highlight/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-proposal-async-generator-functions/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-proposal-async-generator-functions/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-proposal-class-properties/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-proposal-class-properties/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-proposal-decorators/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-proposal-decorators/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-proposal-do-expressions/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-proposal-do-expressions/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-proposal-export-default-from/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-proposal-export-default-from/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-proposal-export-namespace-from/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-proposal-export-namespace-from/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-proposal-function-bind/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-proposal-function-bind/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-proposal-function-sent/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-proposal-function-sent/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-proposal-logical-assignment-operators/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-proposal-logical-assignment-operators/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-proposal-nullish-coalescing-operator/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-proposal-nullish-coalescing-operator/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-proposal-numeric-separator/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-proposal-numeric-separator/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-proposal-object-rest-spread/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-proposal-object-rest-spread/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-proposal-optional-catch-binding/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-proposal-optional-catch-binding/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-proposal-optional-chaining/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-proposal-optional-chaining/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-proposal-pipeline-operator/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-proposal-pipeline-operator/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-proposal-throw-expressions/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-proposal-throw-expressions/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-proposal-unicode-property-regex/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-proposal-unicode-property-regex/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-syntax-async-generators/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-syntax-async-generators/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-syntax-class-properties/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-syntax-class-properties/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-syntax-decorators/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-syntax-decorators/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-syntax-do-expressions/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-syntax-do-expressions/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-syntax-dynamic-import/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-syntax-dynamic-import/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-syntax-export-default-from/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-syntax-export-default-from/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-syntax-export-namespace-from/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-syntax-export-namespace-from/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-syntax-function-bind/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-syntax-function-bind/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-syntax-function-sent/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-syntax-function-sent/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-syntax-import-meta/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-syntax-import-meta/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-syntax-jsx/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-syntax-jsx/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-syntax-logical-assignment-operators/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-syntax-logical-assignment-operators/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-syntax-nullish-coalescing-operator/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-syntax-nullish-coalescing-operator/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-syntax-numeric-separator/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-syntax-numeric-separator/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-syntax-object-rest-spread/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-syntax-object-rest-spread/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-syntax-optional-catch-binding/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-syntax-optional-catch-binding/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-syntax-optional-chaining/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-syntax-optional-chaining/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-syntax-pipeline-operator/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-syntax-pipeline-operator/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-syntax-throw-expressions/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-syntax-throw-expressions/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-transform-arrow-functions/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-transform-arrow-functions/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-transform-async-to-generator/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-transform-async-to-generator/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-transform-block-scoped-functions/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-transform-block-scoped-functions/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-transform-block-scoping/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-transform-block-scoping/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-transform-classes/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-transform-classes/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-transform-computed-properties/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-transform-computed-properties/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-transform-destructuring/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-transform-destructuring/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-transform-dotall-regex/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-transform-dotall-regex/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-transform-duplicate-keys/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-transform-duplicate-keys/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-transform-exponentiation-operator/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-transform-exponentiation-operator/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-transform-for-of/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-transform-for-of/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-transform-function-name/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-transform-function-name/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-transform-literals/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-transform-literals/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-transform-modules-amd/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-transform-modules-amd/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-transform-modules-commonjs/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-transform-modules-commonjs/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-transform-modules-systemjs/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-transform-modules-systemjs/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-transform-modules-umd/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-transform-modules-umd/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-transform-new-target/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-transform-new-target/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-transform-object-super/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-transform-object-super/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-transform-parameters/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-transform-parameters/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-transform-react-display-name/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-transform-react-display-name/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-transform-react-jsx-self/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-transform-react-jsx-self/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-transform-react-jsx-source/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-transform-react-jsx-source/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-transform-react-jsx/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-transform-react-jsx/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-transform-regenerator/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-transform-regenerator/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-transform-shorthand-properties/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-transform-shorthand-properties/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-transform-spread/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-transform-spread/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-transform-sticky-regex/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-transform-sticky-regex/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-transform-template-literals/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-transform-template-literals/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-transform-typeof-symbol/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-transform-typeof-symbol/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-transform-unicode-regex/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/plugin-transform-unicode-regex/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/preset-env/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/preset-env/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/preset-react/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/preset-react/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/preset-stage-0/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/preset-stage-0/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/preset-stage-1/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/preset-stage-1/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/preset-stage-2/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/preset-stage-2/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/preset-stage-3/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/preset-stage-3/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/template/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/template/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/traverse/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/traverse/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/types/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@@babel/types/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@babylon/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.7.0.0-beta.46@babylon/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.1.4@babel-loader/.npminstall.done" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.1.4@babel-loader/CHANGELOG.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.1.4@babel-loader/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.1.4@babel-loader/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.1.4@babel-loader/lib/fs-cache.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.1.4@babel-loader/lib/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.1.4@babel-loader/lib/resolve-rc.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.1.4@babel-loader/lib/utils/exists.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.1.4@babel-loader/lib/utils/read.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.1.4@babel-loader/lib/utils/relative.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.1.4@babel-loader/node_modules/.bin/mkdirp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.1.4@babel-loader/node_modules/find-cache-dir" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.1.4@babel-loader/node_modules/loader-utils" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.1.4@babel-loader/node_modules/mkdirp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.7.1.4@babel-loader/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.8.0.0-beta.2@babel-loader/.npminstall.done" afterPath="$PROJECT_DIR$/app/node_modules/.8.0.0-beta.2@babel-loader/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.recently_updates.txt" afterPath="$PROJECT_DIR$/app/node_modules/.recently_updates.txt" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/arr-diff" afterPath="$PROJECT_DIR$/app/node_modules/arr-diff" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/array-unique" afterPath="$PROJECT_DIR$/app/node_modules/array-unique" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/braces" afterPath="$PROJECT_DIR$/app/node_modules/braces" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/expand-brackets" afterPath="$PROJECT_DIR$/app/node_modules/expand-brackets" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/extglob" afterPath="$PROJECT_DIR$/app/node_modules/extglob" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/fill-range" afterPath="$PROJECT_DIR$/app/node_modules/fill-range" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/glob-parent" afterPath="$PROJECT_DIR$/app/node_modules/glob-parent" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/is-extendable" afterPath="$PROJECT_DIR$/app/node_modules/is-extendable" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/is-extglob" afterPath="$PROJECT_DIR$/app/node_modules/is-extglob" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/is-glob" afterPath="$PROJECT_DIR$/app/node_modules/is-glob" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/is-number" afterPath="$PROJECT_DIR$/app/node_modules/is-number" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/isobject" afterPath="$PROJECT_DIR$/app/node_modules/isobject" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/kind-of" afterPath="$PROJECT_DIR$/app/node_modules/kind-of" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/micromatch" afterPath="$PROJECT_DIR$/app/node_modules/micromatch" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/source-map" afterPath="$PROJECT_DIR$/app/node_modules/source-map" />
+      <change beforePath="$PROJECT_DIR$/app/package.json" afterPath="$PROJECT_DIR$/app/package.json" />
+      <change beforePath="$PROJECT_DIR$/app/webpack.config.js" afterPath="$PROJECT_DIR$/app/webpack.config.js" />
+      <change beforePath="$PROJECT_DIR$/util/index.js" afterPath="$PROJECT_DIR$/util/index.js" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -17,18 +251,28 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/util/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <state relative-caret-position="45">
+              <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="90">
+              <caret line="6" column="16" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -37,11 +281,9 @@
       <file leaf-file-name="bundle.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/bundle.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
-              <caret line="82" column="6" lean-forward="true" selection-start-line="82" selection-start-column="6" selection-end-line="82" selection-end-column="6" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state relative-caret-position="378">
+              <caret line="87" column="12" lean-forward="false" selection-start-line="87" selection-start-column="12" selection-end-line="87" selection-end-column="12" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -76,11 +318,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="webpack.config.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="webpack.config.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/webpack.config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+            <state relative-caret-position="270">
+              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="22" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -98,14 +340,17 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/webpack.config.js" />
         <option value="$PROJECT_DIR$/app/package.json" />
         <option value="$PROJECT_DIR$/util/package.json" />
         <option value="$PROJECT_DIR$/util/index.js" />
         <option value="$PROJECT_DIR$/app/index.js" />
+        <option value="$PROJECT_DIR$/app/webpack.config.js" />
       </list>
     </option>
   </component>
@@ -133,6 +378,7 @@
     <option name="width" value="1400" />
     <option name="height" value="877" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -168,6 +414,11 @@
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="testBabel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testBabel" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -179,9 +430,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/util" />
       <recent name="$PROJECT_DIR$/app" />
     </key>
@@ -211,24 +464,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525741813184</updated>
-      <workItem from="1525741814971" duration="2768000" />
+      <workItem from="1525741814971" duration="3689000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2768000" />
+    <option name="totallyTimeSpent" value="3689000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -259,22 +513,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/webpack.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="35" lean-forward="false" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/util/.babelrc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -291,28 +529,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/util/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        <state relative-caret-position="45">
+          <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="16" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/bundle.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="82" column="6" lean-forward="true" selection-start-line="82" selection-start-column="6" selection-end-line="82" selection-end-column="6" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="378">
+          <caret line="87" column="12" lean-forward="false" selection-start-line="87" selection-start-column="12" selection-end-line="87" selection-end-column="12" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/index.js">
+    <entry file="file://$PROJECT_DIR$/app/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="225">
+          <caret line="15" column="35" lean-forward="false" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="22" selection-end-column="5" />
           <folding />
         </state>
       </provider>

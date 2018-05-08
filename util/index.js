@@ -1,4 +1,4 @@
 
-let a=2;
+let absPath=11;
 
-module.exports.A=a;
+module.exports.path=absPath;

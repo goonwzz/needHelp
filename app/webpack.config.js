@@ -1,5 +1,7 @@
 let path = require('path');
 
+var webpack = require('webpack')
+
 let srcPath = path.resolve(__dirname);
 
 const config = {
@@ -14,6 +16,11 @@ const config = {
 			{ test: /\.js$/, use: 'babel-loader' }
 		]
 	},
+	plugins:[
+		new webpack.optimize.UglifyJsPlugin({
+			comments: false
+		}),
+	]
 };
 
 
